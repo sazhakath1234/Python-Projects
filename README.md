@@ -23,9 +23,3 @@ Practical Use Cases: Projects like the Tableau Workbook Documentation Script ref
 AI-Assisted Development: Some scripts were developed with the help of AI tools to overcome challenges in coding and expedite the learning process.
 
 
-
-How to Use:
-Clone or Download the Repository: Clone or download the repository to your local machine to access the Python scripts.
-Set Up Dependencies: Install any necessary Python libraries using pip (e.g., pip install -r requirements.txt).
-Run the Scripts: Open the Python files in your IDE (e.g., VS Code, PyCharm) and run the scripts locally to see them in action.
-Adapt for Your Needs: Feel free to adapt these scripts for your own use or modify them to better fit your project requirements.
